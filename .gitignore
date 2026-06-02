@@ -1,6 +1,7 @@
 # Virtual Environment
+student/
+.venv/
 venv/
-env/
 
 # Environment Variables
 .env
@@ -19,3 +20,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Type Checking
+.mypy_cache/
